@@ -20,7 +20,7 @@
 
 ## Landscape
 
-*The domain in which Ripple is part of is Blockchain and Cryptocurrencies. 
+* The domain in which Ripple is part of is Blockchain and Cryptocurrencies. 
 
 * Cryptocurrency has only recently become a global phenomenon and there is still a lot of unknown potential of it since its constantly evolving. There are many concerns and worries swirling around the technology and its capacity to disrupt traditional financial systems. A current and relevant trend is the use of Blockchain technology used to track vaccines from the point of manufacture to the patient. it can be used to record of where each individual dose was at any given time. Another trend that has been noticed over the last couple of years is investment in blockchain technology by businesses in a variety of different industries from pharmaceuticals to finance to even diamond mining. The investment in blockchain technology is said to reach almost $16 billion USD by 2023 where in 2019 it was only at $2.7 billion USD. Another more recent innovation related that stems from Blockchain technology is the recent rise of NFT’s (Non-fungible Token). NFT’s are one of a kind and irreplaceable digital assets that live on a blockchain and have changed the way people collect and buy items like art, trading cards, etc. 
 
