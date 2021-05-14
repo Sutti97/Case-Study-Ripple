@@ -40,5 +40,5 @@
 
 * Expanding Ripple’s niche would benefit the company since it would allow a variety of more customers to use Ripple and would result in more profit over time since adapting the technology might be costly at first. 
 
-* It would not be difficuly to develop since both Ripple and Stellar rely on distributed ledger technology. 
+* It would not be difficuly to develop the "technology" that I recommended above  since both Ripple and Stellar rely on distributed ledger technology. 
 
