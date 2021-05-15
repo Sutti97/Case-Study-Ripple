@@ -32,7 +32,7 @@
 
 * Key metrics to compare in this domain include supply, transaction speed/efficiency, transaction cost and energy consumption.
 
-* The supply of digital currency that was mentioned earlier is $100 billion. The transaction speed is 3-5 seconds and complete 1500 transactions per second. The transaction cost of 1 XRP is $0.29. Ripple has only used 474,000 kWh of energy while Bitcoin has used 57.09 Billion kWh of energy. Like I mentioned throughout this case study Ripple is better in all of these key metrics compared to that of Bitcoin. The direct competitor in terms of offering same product/service would be Stellar but are not really comparable in terms of results since Stellar is a non-for profit company while Ripple is a for-profit company. 
+* The supply of digital currency that was mentioned earlier is $100 billion. The transaction speed is 3-5 seconds and can complete 1500 transactions per second. The transaction cost of 1 XRP is $0.29. Ripple has only used 474,000 kWh of energy while Bitcoin has used 57.09 Billion kWh of energy. Like I mentioned throughout this case study Ripple is better in all of these key metrics compared to that of Bitcoin. The direct competitor in terms of offering same product/service would be Stellar but are not really comparable in terms of results since Stellar is a non-for profit company while Ripple is a for-profit company. 
 
 ## Recommendations
 
