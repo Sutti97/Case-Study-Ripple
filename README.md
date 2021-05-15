@@ -42,3 +42,14 @@
 
 * It would not be difficuly to develop the "technology" that I recommended above  since both Ripple and Stellar rely on distributed ledger technology. 
 
+## Addendum
+https://ripple.com/company
+https://www.investopedia.com/tech/whats-difference-between-bitcoin-and-ripple/
+https://ripple.com/xrp/#:~:text=XRP%20is%20a%20digital%20asset,transactions%20in%203%2D5%20seconds.
+https://www.forbes.com/companies/ripple/?sh=549c19983997
+https://cointelegraph.com/ripple-101/ripple-vs-bitcoin-key-differences
+https://www.forbes.com/sites/bernardmarr/2021/03/12/the-six-biggest-blockchain-trends-everyone-should-know-about-in-2021/?sh=f84d68966315
+https://xrpl.org/
+https://coinmotion.com/stellar-vs-ripple-xlm-xrp/#:~:text=Stellar%20Lumens%20is%20a%20nonprofit,billion%20stellars%20or%20XLM%20tokens.
+https://corporatefinanceinstitute.com/resources/knowledge/other/ripple-vs-bitcoin/#:~:text=Ripple%20primarily%20offers%20fast%20and,resistance%20to%20censorship%20and%20centralization.
+https://www.investopedia.com/terms/r/ripple-cryptocurrency.asp
